@@ -30,7 +30,7 @@ export default function Head() {
         width={250}
         height={250}
         quality={100}
-        className="size-40 select-none rounded-full border bg-gradient-to-br to-primary drop-shadow-2xl dark:from-accent/40 xl:mr-9"
+        className="size-40 select-none rounded-full border bg-gradient-to-br to-primary drop-shadow-2xl dark:from-accent/40 xl:mb-6 xl:mr-14"
       />
     </div>
   );
