@@ -5,7 +5,6 @@
 - ⚛️ **Next.js 14** - Powerful React framework for server-side rendering and static site generation.
 - 🎨 **Tailwind CSS** - Utility-first CSS framework for modern, responsive design.
 - 🧩 **shadcn/ui** - Pre-built, customizable UI components.
-- 🎧 **Spotify API** - Displays my recently listened songs.
 - 🎮 **Lanyard API** - Shows my live Discord status.
 
 ## ✨ Features
@@ -13,7 +12,6 @@
 - **Real-time Discord status** - View my current Discord status live on the site.
 - **Real-time Spotify listening status** - See what I’m listening to on Spotify in real-time.
 - **Experiences & personal projects section** - A curated list of my professional experiences and projects.
-- **Recently listened songs from Spotify** - Check out my recent listening activity.
 - **Repositories from GitHub** - Explore my public repositories and code contributions.
 - **Dark/Light Theme** - Supports both dark and light themes.
 
