@@ -16,7 +16,7 @@ export default function Head() {
           </span>
         </div>
         <div className="flex flex-row gap-2">
-          <Button asChild size="sm" className="flex flex-row gap-1">
+          <Button asChild size="sm" className="flex flex-row gap-2">
             <Link href="mailto:contact@misakii.dev">
               <FaEnvelope /> Contact Me
             </Link>
@@ -27,10 +27,10 @@ export default function Head() {
         draggable={false}
         src="/assets/images/profile.png"
         alt="@misakii.dev"
-        width={250}
-        height={250}
+        width={1170}
+        height={1170}
         quality={100}
-        className="size-40 select-none rounded-full border bg-gradient-to-br to-primary drop-shadow-2xl dark:from-accent/40 xl:mb-6 xl:mr-14"
+        className="size-40 select-none rounded-full border bg-gradient-to-br to-primary drop-shadow-2xl dark:from-accent/40 xl:mr-9"
       />
     </div>
   );

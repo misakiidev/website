@@ -85,7 +85,7 @@ const Lanyard = () => {
   }, [loading]);
 
   return (
-    <div className="relative top-[-2.5rem] flex flex-row gap-2">
+    <div className="relative -top-10 flex flex-row gap-2 xl:absolute xl:top-4">
       <Link
         href={`https://discord.com/users/${process.env.NEXT_PUBLIC_DISCORD}`}
         target="_blank"
