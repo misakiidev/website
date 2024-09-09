@@ -1,3 +1,5 @@
+![website](https://github.com/user-attachments/assets/c7a1eb1e-f7bc-43a0-9317-e5e9bddb0e89)
+
 💫 Welcome to the source code of my personal website, [misakii.dev](https://misakii.dev)! This project showcases my development journey, including my favorite music, projects and experience.
 
 ## 🛠️ Tech Stack
